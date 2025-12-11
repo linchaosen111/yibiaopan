@@ -1,0 +1,7 @@
+{
+  "name": "Gyroscope Direction Challenge",
+  "description": "A motion-sensing game where you follow voice commands to orient your phone in the correct direction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
